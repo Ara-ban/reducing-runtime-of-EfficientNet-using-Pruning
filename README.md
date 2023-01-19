@@ -8,5 +8,5 @@ here I put the 5 files that allows testing the model before and after pruning
 
 To test these files the folder Models should be downloaded from this repo https://github.com/HSE-asavchenko/face-emotion-recognition (shoutout to their work)
 
-A sample of the affectnet database must also be downloaded and put on a folder named "DataAffectNet" or change the name of some paths in the files 
+A sample of the affectnet database must also be downloaded and put on a folder named "DataAffectNet" or change the name of some paths in the files.
 You can find one here https://www.kaggle.com/datasets/mouadriali/affectnetsample
